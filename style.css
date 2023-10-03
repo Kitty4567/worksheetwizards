@@ -1,0 +1,41 @@
+#letsgo
+{
+    float :right;
+    z-index: 99999;
+    color:black;
+}
+
+#myCarousel1 img
+{
+   
+    padding: 20px;
+}
+
+#myCarousel1 
+{
+    background-color: darkslategray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#myCarousel1 p
+{
+    color: white;
+}
+
+
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
